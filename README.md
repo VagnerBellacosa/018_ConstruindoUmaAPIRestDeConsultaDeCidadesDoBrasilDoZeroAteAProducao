@@ -8,7 +8,7 @@ Neste projeto você terá o desafio de desenvolver uma API Rest de consulta de c
 
 Java Postgre SQLSpring Boot
 
-#### ndré Gomes
+#### André Gomes
 Lead Software Engineer, PagSeguro PagBank
 
 https://web.digitalinnovation.one/lab/construindo-uma-api-rest-de-consulta-de-cidades-do-brasil-do-zero-ate-producao/learning/1712e293-1655-49e4-a982-9c61465bd1b8
